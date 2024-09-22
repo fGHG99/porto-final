@@ -216,9 +216,9 @@ const AboutSection = () => {
         <div className="mt-7 md:mt-0 text-left flex flex-col h-full">
           <p className="text-xl font-bold text-white mb-4 mt-4">About Me</p>
           <p className="text-base lg:text-lg px-4 max-h-[12rem] overflow-y-auto">
-          Hello I’m Azka Dafin Aldrik, a passionate web development student skilled in 
+          Hello I&apos;m Azka Dafin Aldrik, a passionate web development student skilled in 
           various frameworks and ORMs for both front-end and back-end projects.
-           My exprience as a leader in school's project has developed my leadership, teamwork, problem-solving, 
+           My exprience as a leader in school&apos;s project has developed my leadership, teamwork, problem-solving, 
            and time management abilities, making me effective in collaborative projects.
           </p>
           <div className="flex flex-row justify-start mt-8">
