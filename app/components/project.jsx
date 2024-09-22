@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useRef } from "react";
 import ProjectCard from "./projectCard";
-import FilterTag from "./FilterTag";
+import FilterTag from "./filterTag";
 import { motion, useInView } from "framer-motion";
 import projectsData from "../data/projectsData";
 
