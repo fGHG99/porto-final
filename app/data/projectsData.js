@@ -87,6 +87,14 @@ const projectsData = [
         tag: ["All", "Certificate"],
         linkUrl: "-",
     },
+    {
+      id: 13,
+      title: "GeeksFarm Bootcamp Project (Full-Stack)",
+      description: "A full-stack project for GeeksFarm Bootcamp, built with React,Typescript, Node.js, and PostgreSQL",
+      image: "/images/projects/BootcampProject.jpg",
+      tag: ["All", "Web"],
+      linkUrl: "https://github.com/fghg99/geeksfarm",
+    },
   ];
   
   export default projectsData;
