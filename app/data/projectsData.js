@@ -95,6 +95,14 @@ const projectsData = [
       tag: ["All", "Web"],
       linkUrl: "https://github.com/fghg99/geeksfarm",
     },
+     {
+      id: 14,
+      title: "GeeksFarm Bootcamp Sales App (Full-Stack)",
+      description: "A full-stack project for GeeksFarm Bootcamp, built with React(Vite),Javascript, Node.js, Express and SQL",
+      image: "/images/projects/geeksales.png",
+      tag: ["All", "Web"],
+      linkUrl: "https://github.com/fghg99/sales-app",
+    },
   ];
   
   export default projectsData;
